@@ -1,4 +1,4 @@
-// Vienna Bot v1.0
+// Vienna Bot v2.0
 
 /**
  * This code's prerequisites are:
