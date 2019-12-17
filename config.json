@@ -3,6 +3,8 @@
     "password": "setup_password",
     "shared_secret": "setup_shared_secret",
     "identity_secret": "setup_identity_secret",
+    "trusted_account": "trusted_account_community_id",
+    "trusted_account_2": "trusted_account_community_id_2 (don't change this unless you know how to setup a second trusted account)!",
     "prefix": "setup_prefix",
     "games": [440, 570]
 }
