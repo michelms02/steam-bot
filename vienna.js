@@ -30,7 +30,6 @@ const manager = new TradeOfferManager({
 
 // Logins on Steam and simulates its client
 const logOnOptions = {
-    //TODO setup login information
     accountName: config.username,
     password: config.password,
 
