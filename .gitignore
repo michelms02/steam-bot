@@ -1,6 +1,6 @@
 # Config Files #
-/config.json
-/config-totp.json
+config.json
+config-totp.json
 
 # Node Modules #
 node_modules/
