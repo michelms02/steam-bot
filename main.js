@@ -1,16 +1,6 @@
-// Steam Bot v2.0
-
-/**
- * This code's prerequisites are:
- * npm install steam-user
- * npm install steam-totp
- * npm install steam-tradeoffer-manager
- * npm install steamcommunity
- */
-
 // Config file
-const config = require('./config.json');
-// const config = require('./config-totp.json');
+// const config = require('./config.json');
+const config = require('./config-totp.json');
 
 // Modules
 const SteamUser = require('steam-user'),
