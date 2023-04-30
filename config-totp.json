@@ -1,0 +1,9 @@
+{
+    "username": "username",
+    "password": "pwd",
+    "shared_secret": "shared_secret",
+    "identity_secret": "identity_secret",
+    "trusted_account": "trusted_account",
+    "prefix": "/",
+    "games": [440, 570]
+}
