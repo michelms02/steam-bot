@@ -1,4 +1,4 @@
 @echo
 :start
-node vienna.js
+node main.js
 GOTO start
