@@ -1,9 +1,8 @@
-Vienna Bot v2.0
+Steam Bot v2.0
 
 config.json changes the presets for an account setup
+config-totp.json changes the preset for an account setup with TOTP
 
-vienna.js is the equivalent of main.js
+run.bat runs main.js
 
-run.bat initializes
-
-WIP
+This is a WIP
